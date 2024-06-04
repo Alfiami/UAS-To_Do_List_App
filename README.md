@@ -4,8 +4,8 @@ Aplikasi ini adalah sebuah aplikasi manajemen tugas yang memungkinkan pengguna u
 
 ## UI/UX To Do List App
 
-![Splash Screen](splash.png)
-![Beranda](home.png)
-![Kalender](kalender.png)
-![Timer](timer.png)
-![Remainder](remain.png)
+![Splash Screen](assets/splash.png)
+![Beranda](assets/home.png)
+![Kalender](assets/kalender.png)
+![Timer](assets/timer.png)
+![Remainder](assets/remain.png)
