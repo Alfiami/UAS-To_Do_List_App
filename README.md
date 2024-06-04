@@ -1,16 +1,11 @@
-# flutter_application_uas
+# To Do List App
 
-A new Flutter project.
+Aplikasi ini adalah sebuah aplikasi manajemen tugas yang memungkinkan pengguna untuk membuat, mengedit, dan menghapus tugas, serta mengatur waktu pengerjaan dengan fitur timer. Selain itu, pengguna juga dapat melihat kemajuan pengerjaan tugas melalui fitur remainder. Dengan aplikasi ini, pengguna dapat lebih terorganisir dalam mengelola aktivitas sehari-hari.
 
-## Getting Started
+## UI/UX To Do List App
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Splash Screen](splash.png)
+![Beranda](home.png)
+![Kalender](kalender.png)
+![Timer](timer.png)
+![Remainder](remain.png)

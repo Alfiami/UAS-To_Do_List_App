@@ -14,14 +14,14 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
     super.initState();
     _controller = AnimationController(
       vsync: this,
-      duration: Duration(seconds: 2),
+      duration: Duration(seconds: 30),
     );
     _animation = CurvedAnimation(parent: _controller, curve: Curves.easeInOut);
 
     _controller.forward();
 
     // Navigate to the main screen after 3 seconds
-    Future.delayed(Duration(seconds: 3), () {
+    Future.delayed(Duration(seconds: 60), () {
       Navigator.of(context).pushReplacementNamed('/main');
     });
   }
